@@ -49,11 +49,11 @@
 ## 비디오 데모
 
 ### 1. 메인 페이지 데모
-[![Main Page Video](./video1.mp4)](./images/video1.mp4)
+[![Main Page Video](./images/video1.mp4)](./images/video1.mp4)
 메인 페이지의 데모 영상입니다. 사용자가 플랫폼을 어떻게 사용할 수 있는지 보여줍니다.
 
 ### 2. 공모전 리스트 데모
-[![Contest List Video](./video2.mp4)](./images/video2.mp4)
+[![Contest List Video](./images/video2.mp4)](./images/video2.mp4)
 공모전 리스트 페이지의 데모 영상입니다. 다양한 공모전을 탐색하고 선택할 수 있는 방법을 보여줍니다.
 
 ### 3. 공모전 등록 데모
