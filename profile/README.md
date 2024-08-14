@@ -49,16 +49,26 @@
 ## 비디오 데모
 
 ### 1. 메인 페이지 데모
-[![Main Page Video](./images/video1.mp4)](./images/video1.mp4)
+<video width="640" height="360" controls>
+  <source src="./images/video1.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 메인 페이지의 데모 영상입니다. 사용자가 플랫폼을 어떻게 사용할 수 있는지 보여줍니다.
 
 ### 2. 공모전 리스트 데모
-[![Contest List Video](./images/video2.mp4)](./images/video2.mp4)
+<video width="640" height="360" controls>
+  <source src="./images/video2.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 공모전 리스트 페이지의 데모 영상입니다. 다양한 공모전을 탐색하고 선택할 수 있는 방법을 보여줍니다.
 
 ### 3. 공모전 등록 데모
-[![Contest Registration Video](./images/video3.mp4)](./images/video3.mp4)
+<video width="640" height="360" controls>
+  <source src="./images/video3.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 공모전 등록 페이지의 데모 영상입니다. 새로운 공모전을 어떻게 등록할 수 있는지 보여줍니다.
+
 
 ## 기능
 - **메인 페이지**: 스타트업 인재 매칭 플랫폼 소개 및 주요 기능 제공
